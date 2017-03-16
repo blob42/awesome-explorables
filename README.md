@@ -105,10 +105,9 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 
 
 ## Science
-
+*[&#8593; top](#contents)*
 * [ncase.me](http://ncase.me/simulating/) - simulating the world (in emoji😘)
 * [ncase.me](http://ncase.me/neurons/) - neurotic neurons, an interactive animation on how exposure therapy works
-*[&#8593; top](#contents)*
 *[Grail Handwriting Recognizer](https://jackschaedler.github.io/handwriting-recognition/) - jack schaedler's active essay on how the grail handwriting recognizer works
 * [Exploring Emergence](http://www.playfulinvention.com/emergence/index.html) -  an introduction to cellular automata (from 1996! requires flash.)
 * [internet-atlas.net](http://internet-atlas.net/) - critical atlas of internet
@@ -151,8 +150,8 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [GeoGebra](https://www.geogebra.org/materials/) - dynamic mathematics for learning and teaching 
 * [aprt.us](http://aprt.us/) - apparatus, an open-source graphics editor and programming environment for creating interactive diagrams
 * [awesome-livecoding](https://github.com/lvm/awesome-livecoding) - a curated list of live-coding resources.
-*[Self-Lang](http://www.selflanguage.org) prototype-based dynamic object-oriented programming language, environment, and virtual machine
-*[Lively Kernel](http://lively-kernel.org)
+* [Self-Lang](http://www.selflanguage.org) prototype-based dynamic object-oriented programming language, environment, and virtual machine
+* [Lively Kernel](http://lively-kernel.org)
 
 ## Books
 *[&#8593; top](#contents)*
