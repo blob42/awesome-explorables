@@ -136,6 +136,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 ## About Explorable Explanations
 *[&#8593; top](#contents)*
 * [Explorable Explanations](http://explorableexplanations.com)
+* [worrydream.com](http://worrydream.com/ScientificCommunicationAsSequentialArt/) - Scientific Communication As Sequential Art
 * [worrydream.com](http://worrydream.com/ladderofabstraction/) - up and down the ladder of abstraction – a systemic approach to interactive visualization
 * [worrydream.com](http://worrydream.com/explorableexplanations/) - bret victor's essay which coined the term "explorable explanations"
 * [Reinventing Explanation](http://michaelnielsen.org/reinventing_explanation/) – prototyping an accessible explanation of simpson's paradox
