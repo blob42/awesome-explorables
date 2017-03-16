@@ -1,6 +1,5 @@
 
 
-Join us on slack at **#awesome-explorables**
 
 # Contribution Guidelines
 
