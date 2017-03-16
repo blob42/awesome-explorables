@@ -82,6 +82,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [Quicksort](https://illustrated-algorithms.now.sh/quicksort) - the quicksort algorithm, illustrated with playing cards
 * [Second-Order Controls](https://medium.com/@max_goldstein/second-order-controls-5cee5ddc9d2d)
 * [How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/) - Visualizing high-dimensional data
+* [Promisees](http://bevacqua.github.io/promisees/) - Promise visualization playground for the adventurous
 
 ### Machine Learning and Neural Networks
 *[&#8593; top](#contents)*
