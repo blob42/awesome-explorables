@@ -54,6 +54,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [Markov Chains](http://setosa.io/ev/markov-chains/)
 * [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/#part1) - On scientific method (p-values)
 * [Humans Suck At Entropy](http://www.loper-os.org/bad-at-entropy/manmach.html) 
+* [Simpson's Paradox](http://vudlab.com/simpsons/)
 
 ### Linear Algebra
 *[&#8593; top](#contents)*
