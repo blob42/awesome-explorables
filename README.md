@@ -27,7 +27,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 	- [Data Structures](#data-structures)
 - [Science](#science)
 - [Physics](#physics)
-- [Psychology](#psychology)
+- [Psychology](#psychology-human-machine-interface)
 - [Other](#other)
 - [About Explorable Explanations](#about-explorable-explanations)
 - [Tools for Explorable Explanations](#tools-for-explorable-explanations)
@@ -122,7 +122,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [Angry Physics](http://ncase.me/birds/) 
 
 
-## Psychology - Human Machine Interface
+## Psychology Human Machine Interface
 *[&#8593; top](#contents)*
 * [To Build A Better Ballot](http://ncase.me/ballot/) – an interactive guide to alternative voting systems
 * [recursivedrawing.com](http://recursivedrawing.com/) - by toby schachman lets you create complex patterns from simple building blocks
