@@ -40,6 +40,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
   * [Image Kernels](http://setosa.io/ev/image-kernels/)
   * [Pi (π)](http://setosa.io/ev/pi/)
   * [Exponentiation](http://setosa.io/ev/exponentiation/)
+* [Better Explained](https://betterexplained.com) - Math without endless memorization
 * [Euclid: The Game](http://euclidthegame.com/)
 * [The Hitchhiker's Guide To The Mandelbrot set](https://morr.cc/mandelbrot/) 
 * [vf.rohanp.xyz](http://vf.rohanp.xyz/) - an interactive demonstration of vector field flow
