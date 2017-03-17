@@ -2,7 +2,7 @@
 
 A curated list of awesome [explorable explanations](http://worrydream.com/#!/ExplorableExplanations). 
 
-Inspired by Bret Vector and [awesome](github.com/sindresorhus/awesome).
+Inspired by Bret Vector and [awesome](https://github.com/sindresorhus/awesome).
 
 ## Contributing
 
