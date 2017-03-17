@@ -12,7 +12,7 @@ Please take a a look at [contribution guidelines](https://github.com/sp4ke/aweso
 
 #### *If you see a link or a project that is broken or no longer working, please submit a pull request to improve this file. Thank you !*
 
-Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/) or reddit at [/r/explorables](www.reddit.com/r/explorables/)
+Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/) or reddit at [/r/explorables](https://www.reddit.com/r/explorables/)
 
 ## Contents
 
