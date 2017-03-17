@@ -1,8 +1,8 @@
-# Awesome Explorables
+# Awesome Explorables ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of awesome [explorable explanations](http://worrydream.com/#!/ExplorableExplanations). 
 
-Inspired by [awesome-go](https://github.com/avelino/awesome-go)
+Inspired by Bret Vector and [awesome](github.com/sindresorhus/awesome).
 
 ## Contributing
 
