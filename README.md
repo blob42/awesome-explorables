@@ -30,7 +30,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 - [Psychology - Human Machine Interface](#psychology-human-machine-interface)
 - [Other](#other)
 - [About Explorable Explanations](#about-explorable-explanations)
-- [Tools for Explorable Explanations](#tools-for-explorable-explanations)
+- [Tools & Resources](#tools-and-resources)
 -  [Books](#books)
 
 ## Math
@@ -174,7 +174,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [blog.ncase.me](http://blog.ncase.me/explorable-explanations/) - design patterns for explorable explanations
 * [simblob.blogspot.de](http://simblob.blogspot.de/2016/12/five-year-mission.html) - amit patel of red blob games looks back on 5 years of creating interactive explanations
 
-## Tools for Explorable Explanations
+## Tools And Resources
 *[&#8593; top](#contents)*
 * [Tangle](http://worrydream.com/Tangle/) Js Library for reactive documents
 * [Outside the box](http://simblob.blogspot.nl/2016/10/outside-box.html) On SVG and Arrows.
@@ -186,6 +186,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [Self-Lang](http://www.selflanguage.org) prototype-based dynamic object-oriented programming language, environment, and virtual machine
 * [Lively Kernel](http://lively-kernel.org)
 * [Coeffects](http://tomasp.net/coeffects/) - Context-aware programming languages
+* [INFO 3300 - Data-driven Web Applications](mimno.infosci.cornell.edu/info3300/)
 
 
 ## Books
