@@ -49,6 +49,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [A Primer on Bézier Curves](http://pomax.github.io/bezierinfo/) 
 * [Math Insight](http://mathinsight.org/) - Copious interactive diagrams and ingenious experiments with digital publishing (threads, notation systems) 
 * [Who’ll Freeze First? A Puzzle About Size and Staying Warm](http://noticing.co/on-size-and-warmth/)
+* [Circles Sines and Signals](http://jackschaedler.github.io/circles-sines-signals/)  – a  compact primer on digital signal processing.
 
 
 
@@ -75,8 +76,8 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 
 ### Trigonometry
 *[&#8593; top](#contents)*
-* [Circles Sines and Signals](http://jackschaedler.github.io/circles-sines-signals/)  – a  compact primer on digital signal processing. 
 * [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/)
+
 
 ### Logic
 *[&#8593; top](#contents)*
