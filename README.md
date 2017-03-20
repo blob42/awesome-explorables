@@ -112,6 +112,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/) - Free online interactive book about Neural Networks and Deep Learning.
 * [playground.tensorflow.org](http://playground.tensorflow.org/) - a neural network playground
 * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
+* [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
 
 ### Programming
 *[&#8593; top](#contents)*
