@@ -139,6 +139,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [internet-atlas.net](http://internet-atlas.net/) - critical atlas of internet
 * [Visualizing Projections](http://shaunlebron.github.io/visualizing-projections/) - visualizing multiple camera projection techniques
 * [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)
+* [Pink Trombone](http://dood.al/pinktrombone/) - A Hands-On Vocal Tract Simulation
 
 ## Physics
 *[&#8593; top](#contents)*
