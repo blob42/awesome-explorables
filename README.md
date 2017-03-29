@@ -175,6 +175,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [blog.ncase.me](http://blog.ncase.me/explorable-explanations/) - design patterns for explorable explanations
 * [simblob.blogspot.de](http://simblob.blogspot.de/2016/12/five-year-mission.html) - amit patel of red blob games looks back on 5 years of creating interactive explanations
 
+
 ## Tools And Resources
 *[&#8593; top](#contents)*
 * [Tangle](http://worrydream.com/Tangle/) Js Library for reactive documents
@@ -188,6 +189,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [Lively Kernel](http://lively-kernel.org)
 * [Coeffects](http://tomasp.net/coeffects/) - Context-aware programming languages
 * [INFO 3300 - Data-driven Web Applications](mimno.infosci.cornell.edu/info3300/)
+* [Human Advancement Research Community - YC Research](https://harc.ycr.org)
 * [Flex - YC Research](https://harc.ycr.org/flex/) - Interactive programming and solution exploration tools
   * [Ohm](https://github.com/harc/ohm) - Visual parser generator and toolkit for building interpreters and compilers.
   * [Chorus](http://www.chorus-home.org) - Visual mobile programming using spreadsheet concepts
