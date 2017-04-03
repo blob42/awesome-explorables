@@ -113,6 +113,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [playground.tensorflow.org](http://playground.tensorflow.org/) - a neural network playground
 * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
+* [Confounding Variables](http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/)
 
 ### Programming
 *[&#8593; top](#contents)*
@@ -147,7 +148,8 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [arogozhnikov.github.io](https://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html) - hamiltonian monte carlo explained
 * [Nukemap](http://nuclearsecrecy.com/nukemap/) - nuclear explosion simulation tool by alex wellerstein
 * [Angry Physics](http://ncase.me/birds/) 
-* [PhET Home Page](https://phet.colorado.edu/) - "free interactive math and science simulations… based on extensive education research" 
+* [PhET Home Page](https://phet.colorado.edu/) - "free interactive math and science simulations… based on extensive education research"
+* [Interactive Introduction To Optical Modulation](https://shapescience.xyz/blog/interactive-introduction-to-optical-modulation/)
 
 
 
@@ -193,6 +195,8 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 * [Flex - YC Research](https://harc.ycr.org/flex/) - Interactive programming and solution exploration tools
   * [Ohm](https://github.com/harc/ohm) - Visual parser generator and toolkit for building interpreters and compilers.
   * [Chorus](http://www.chorus-home.org) - Visual mobile programming using spreadsheet concepts
+* [Loopy](ncase.me/loopy/) - a tool for thinking in systems
+
 
 
 ## Books
