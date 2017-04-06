@@ -165,6 +165,7 @@ Join us on slack at [**#awesome-explorables**](https://awesome-explorables.com/)
 *[&#8593; top](#contents)*
 * [Ishkur's Guide To Electronic Music](http://techno.org/electronic-music-guide/) - 
 * [kevinhayeswilson.com](https://kevinhayeswilson.com/redraw/) - redraw state boundaries with 2016 us election data.
+* [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
 
 
 ## About Explorable Explanations
