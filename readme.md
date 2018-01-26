@@ -1,17 +1,6 @@
 # Awesome Explorables [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sp4ke/awesome-explorables)
 
-A curated list of awesome [explorable explanations](http://worrydream.com/#!/ExplorableExplanations). 
-
-Inspired by Bret Vector and [awesome](https://github.com/sindresorhus/awesome).
-
-## Contributing
-
-You are welcome to create a PR to contribute.
-
-Please take a a look at the [contribution guidelines](https://github.com/sp4ke/awesome-explorables/blob/master/contributing.md) and [code of conduct](https://github.com/sp4ke/awesome-explorables/blob/master/code-of-conduct.md).
-
-#### *If you see a link or a project that is broken or no longer working, please submit a pull request to improve this file. Thank you !*
-
+>A curated list of [explorable explanations](http://worrydream.com/#!/ExplorableExplanations). 
 
 ## Contents
 
@@ -44,12 +33,11 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 * [Better Explained](https://betterexplained.com) - Math without endless memorization.
 * [Euclid: The Game](http://euclidthegame.com/)
 * [The Hitchhiker's Guide To The Mandelbrot set](https://morr.cc/mandelbrot/) 
-* [vf.rohanp.xyz](http://vf.rohanp.xyz/) - An interactive demonstration of vector field flow.
+* [vf.rohanp.xyz](http://vf.rohanp.xyz/) - Interactive demonstration of vector field flow.
 * [World of Mathematics](http://world.mathigon.org/)
-* [A Primer on Bézier Curves](http://pomax.github.io/bezierinfo/) 
+* [Primer on Bézier Curves](http://pomax.github.io/bezierinfo/) 
 * [Math Insight](http://mathinsight.org/) - Copious interactive diagrams and ingenious experiments with digital publishing.
-* [Who’ll Freeze First? A Puzzle About Size and Staying Warm](http://noticing.co/on-size-and-warmth/)
-* [Circles Sines and Signals](http://jackschaedler.github.io/circles-sines-signals/) – A compact primer on digital signal processing.
+* [Circles Sines and Signals](http://jackschaedler.github.io/circles-sines-signals/) - Compact primer on digital signal processing.
 
 
 
@@ -62,8 +50,8 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 * [Markov Chains](http://setosa.io/ev/markov-chains/)
 * [Ordinary Least Squares Regression](http://setosa.io/ev/ordinary-least-squares-regression/)
 * [Principal Component Analysis](http://setosa.io/ev/principal-component-analysis/)
-* [Probdef](https://abstractionapplication.itch.io/probdef) - An open-source game about probability and inference leading up to Bayes Theorem.
-* [Seeing Theory](http://students.brown.edu/seeing-theory/) - A visual introduction to probability and statistics.
+* [Probdef](https://abstractionapplication.itch.io/probdef) - Open-source game about probability and inference leading up to Bayes Theorem.
+* [Seeing Theory](http://students.brown.edu/seeing-theory/) - Visual introduction to probability and statistics.
 * [Simpson's Paradox](http://vudlab.com/simpsons/)
 * [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/#part1) - On scientific method (p-values).
 * [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/) - Great illustration of survival analysis, and of probabalistic proccesses in general.
@@ -72,7 +60,7 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 *[&#8593; top](#contents)*
 * [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 * [Interactive 2d Matrix](http://ncase.me/matrix/)
-* [Immersive Math](http://immersivemath.com/ila/)  – A linear algebra book with  ully interactive figures.
+* [Immersive Math](http://immersivemath.com/ila/)  - Linear algebra book with  ully interactive figures.
 * [Invitation to Another Dimension](http://maxgoldste.in/invitation-to-another-dimension/)
 
 
@@ -85,7 +73,7 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 
 ### Logic
 *[&#8593; top](#contents)*
-* [The Incredible Proof Machine](http://incredible.pm/) – A visual approach to propositional logic.
+* [The Incredible Proof Machine](http://incredible.pm/) - Visual approach to propositional logic.
 
 
 
@@ -100,7 +88,7 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 * [Second-Order Controls](https://medium.com/@max_goldstein/second-order-controls-5cee5ddc9d2d)
 * [How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/) - Visualizing high-dimensional data.
 * [Promisees](http://bevacqua.github.io/promisees/) - Promise visualization playground for the adventurous.
-* [Back to the Future of Handwriting Recognition](http://jackschaedler.github.io/handwriting-recognition/) - An Active Essay Revisiting the GRAIL Handwriting Recognizer.
+* [Back to the Future of Handwriting Recognition](http://jackschaedler.github.io/handwriting-recognition/) - Active Essay Revisiting the GRAIL Handwriting Recognizer.
 * [Bloom Filters](https://www.jasondavies.com/bloomfilter/) 
 * [Calculating The Intersection Area of 3+ Circles](http://www.benfrederickson.com/calculating-the-intersection-of-3-or-more-circles/)
 * [Line-intersection](http://bl.ocks.org/1wheel/464141fe9b940153e636) - Responsive parallel representations for the Bentley–Ottmann algorithm. 
@@ -114,10 +102,10 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 
 ### Machine Learning and Neural Networks
 *[&#8593; top](#contents)*
-* [r2d3.us](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visual introduction to machine learning.
-* [A Visual Interactive Guide To The Basics Of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+* [r2d3.us](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Visual introduction to machine learning.
+* [Visual Interactive Guide To The Basics Of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/) - Free online interactive book about Neural Networks and Deep Learning.
-* [playground.tensorflow.org](http://playground.tensorflow.org/) - A neural network playground.
+* [playground.tensorflow.org](http://playground.tensorflow.org/) - Neural network playground.
 * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
 * [Confounding Variables](http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/)
@@ -126,18 +114,18 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 *[&#8593; top](#contents)*
 * [Red Blob Games](http://www.redblobgames.com/) - Visual and interactive ways of explaining math and computer algorithms.
 	* [Introduction To A* ](http://www.redblobgames.com/pathfinding/a-star/introduction.html) – How pathfinding algorithms work, by amit patel.
-	* [Hexagonal Grids](http://www.redblobgames.com/grids/hexagons/) - An interactive guide on implementing hexagonal grids.
+	* [Hexagonal Grids](http://www.redblobgames.com/grids/hexagons/) - Interactive guide on implementing hexagonal grids.
 	* [Intro To Graph Theory](http://www.redblobgames.com/pathfinding/grids/graphs.html)
 * [Generating Fantasy Maps](http://mewo2.com/notes/terrain/) - Generating fantasy maps, the math behind.
 * [gamejolt.com](http://gamejolt.com/games/the-stranger-loop/10679) - Topology, via asteroids, narrated.
-* [An Interactive Introduction To Quantum Computing](http://davidbkemp.github.io/QuantumComputingArticle/)
-* [The Book Of Shaders](https://thebookofshaders.com/) - A gentle step-by-step guide to fragment shaders.
+* [Interactive Introduction To Quantum Computing](http://davidbkemp.github.io/QuantumComputingArticle/)
+* [The Book Of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide to fragment shaders.
 * [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 
 ### Data Structures
 *[&#8593; top](#contents)*
-* [Quadtree](http://jimkang.com/quadtreevis/) - An interactive explanation of quadtrees, by jim kang.
+* [Quadtree](http://jimkang.com/quadtreevis/) - Interactive explanation of quadtrees, by jim kang.
 * [Bitcoin Blockchain](https://anders.com/blockchain/) - The basics behind decentralized cryptocurrencies like bitcoin.
 
 
@@ -146,17 +134,17 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 *[&#8593; top](#contents)*
 * [ncase.me](http://ncase.me/simulating/) - Simulating the world (in emoji😘).
 * [ncase.me](http://ncase.me/neurons/) - Neurotic neurons, an interactive animation on how exposure therapy works.
-* [Exploring Emergence](http://www.playfulinvention.com/emergence/index.html) -  An introduction to cellular automata (from 1996! requires flash).
+* [Exploring Emergence](http://www.playfulinvention.com/emergence/index.html) -  Introduction to cellular automata (from 1996! requires flash).
 * [internet-atlas.net](http://internet-atlas.net/) - Critical atlas of internet.
 * [Visualizing Projections](http://shaunlebron.github.io/visualizing-projections/) - Visualizing multiple camera projection techniques.
 * [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)
-* [Pink Trombone](http://dood.al/pinktrombone/) - A Hands-On Vocal Tract Simulation.
+* [Pink Trombone](http://dood.al/pinktrombone/) - Hands-On Vocal Tract Simulation.
 
 ## Physics
 *[&#8593; top](#contents)*
 * [Angry Physics](http://ncase.me/birds/) 
 * [arogozhnikov.github.io](https://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html) - Hamiltonian monte carlo explained.
-* [Inside Einstein's head](https://www.lucify.com/inside-einsteins-head/) - An explorable explanation of relativistic spacetime, inspired by Albert Einstein's thought experiments.
+* [Inside Einstein's head](https://www.lucify.com/inside-einsteins-head/) - Explorable explanation of relativistic spacetime, inspired by Albert Einstein's thought experiments.
 * [Interactive Introduction To Optical Modulation](https://shapescience.xyz/blog/interactive-introduction-to-optical-modulation/)
 * [Nukemap](http://nuclearsecrecy.com/nukemap/) - Nuclear explosion simulation tool by alex wellerstein.
 * [PhET Home Page](https://phet.colorado.edu/) - Interactive math and science simulations, based on extensive education research.
@@ -171,10 +159,11 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 
 ## Systems And Thought Experiments
 *[&#8593; top](#contents)*
-* [Complexity Explorables](http://rocs.hu-berlin.de/explorables/explorables/) - A collection of interactive explorable explanations of complex systems in many fields.
+* [Complexity Explorables](http://rocs.hu-berlin.de/explorables/explorables/) - Collection of interactive explorable explanations of complex systems in many fields.
 * [Many Tiny Things](https://manytinythings.github.io/) - Every big thing in the world is made up of many tiny things.
 * [To Build A Better Ballot](http://ncase.me/ballot/) - an interactive guide to alternative voting systems
-* [Parable Of the Polygons](http://ncase.me/polygons/)  - A simulation about segregation and diversity.
+* [Parable Of the Polygons](http://ncase.me/polygons/)  - Simulation about segregation and diversity.
+* [Who’ll Freeze First ?](http://noticing.co/on-size-and-warmth/) - Puzzle about size and staying warm.
 
 ## Creativity
 *[&#8593; top](#contents)*
@@ -187,7 +176,7 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 * [Learn Music](https://learningmusic.ableton.com/) - Experiment with beats, melody, harmony, basslines, and song structure.
 * [kevinhayeswilson.com](https://kevinhayeswilson.com/redraw/) - Redraw state boundaries with 2016 US election data.
 * [Kern Type](http://type.method.ac/) - Explorable on kerning in typography.
-* [How Does Inequality Begin? An Interactive Simulation](https://en.yaronshemesh.com/inequality/)
+* [How Does Inequality Begin ?](https://en.yaronshemesh.com/inequality/) - Interactive simulation.
 * [Virus, The Beauty Of The Beast](http://viruspatterns.com/)
 
 
@@ -205,9 +194,9 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 
 ## Tools And Resources
 *[&#8593; top](#contents)*
-* [Explorabl.es](http://explorabl.es/) - A hub for learning through play!
-* [aprt.us](http://aprt.us/) - An open-source graphics editor and programming environment for creating interactive diagrams.
-* [awesome-livecoding](https://github.com/lvm/awesome-livecoding) - A curated list of live-coding resources.
+* [Explorabl.es](http://explorabl.es/) - Hub for learning through play!
+* [aprt.us](http://aprt.us/) - Open-source graphics editor and programming environment for creating interactive diagrams.
+* [awesome-livecoding](https://github.com/lvm/awesome-livecoding) - Curated list of live-coding resources.
 * [Coeffects](http://tomasp.net/coeffects/) - Context-aware programming languages.
 * [DynamicLand](https://dynamicland.org/) - Incubating a humane dynamic medium.
 * [Flex - YC Research](https://harc.ycr.org/flex/) - Interactive programming and solution exploration tools
@@ -217,11 +206,11 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 * [Human Advancement Research Community - YC Research](https://harc.ycr.org)
 * [How I Make Explorable Explanations](http://blog.ncase.me/how-i-make-an-explorable-explanation/) - By Nicky Case.
 * [Implementing Draggable Handles](http://simblob.blogspot.nl/2014/09/implementing-draggable-handles.html)
-* [Improv.js] (http://ncase.me/improv-wip/) - A tool to make explorable explanations.
+* [Improv.js] (http://ncase.me/improv-wip/) - Tool to make explorable explanations.
 * [Data-driven Web Applications](mimno.infosci.cornell.edu/info3300/)
-* [Idyll](http://idyll-lang.org/) - A tool for making interactive narratives for the web.
+* [Idyll](http://idyll-lang.org/) - Tool for making interactive narratives for the web.
 * [Lively Kernel](http://lively-kernel.org)
-* [Loopy](http://ncase.me/loopy/) - A tool for thinking in systems.
+* [Loopy](http://ncase.me/loopy/) - Tool for thinking in systems.
 * [Tangle](http://worrydream.com/Tangle/) Js Library for reactive documents.
 * [TangleDown] (http://bollwyvl.github.io/TangleDown/)
 * [Outside the box](http://simblob.blogspot.nl/2016/10/outside-box.html) On SVG and Arrows.
@@ -235,14 +224,21 @@ Please take a a look at the [contribution guidelines](https://github.com/sp4ke/a
 * [Elements of Euclid](https://archive.org/details/firstsixbooksofe00eucl) - oliver byrne's edition of euclid's "elements" uses colored diagrams and symbols instead of letters to proof theorems about math and geometry
 * [Envisioning Information](http://www.edwardtufte.com/tufte/books_ei)
 * [Understanding Comics](http://scottmccloud.com/2-print/1-uc/) - "The pedagogical potential of the comic form is vast and mostly untapped" —Bret Victor 
-* [A Topological Picturebook](http://www.amazon.com/Topological-Picturebook-George-K-Francis/dp/0387345426)
+* [Topological Picturebook](http://www.amazon.com/Topological-Picturebook-George-K-Francis/dp/0387345426)
 * [Dynamics, the Geometry of Behavior](http://www.aerialpress.com/DYN/)
 * [Proofs without Words](http://www.amazon.com/Proofs-without-Words-Exercises-Classroom/dp/0883857006)
 * [Relativity Visualized](http://www.amazon.com/Relativity-Visualized-Lewis-Carroll-Epstein/dp/093521805X)
 * [The Shape of Space](http://www.amazon.com/Shape-Space-Chapman-Applied-Mathematics/dp/0824707095) 
 * [Visual Group Theory](http://web.bentley.edu/empl/c/ncarter/vgt/)
-* [Environment and Economy](http://blog.ncase.me/environment-economy/) - An interactive guide to the eco-pragmatist philosophy.
+* [Environment and Economy](http://blog.ncase.me/environment-economy/) - Interactive guide to the eco-pragmatist philosophy.
 
+## Contributing
+
+You are welcome to create a PR to contribute.
+
+Please take a a look at the [contribution guidelines](https://github.com/sp4ke/awesome-explorables/blob/master/contributing.md) and [code of conduct](https://github.com/sp4ke/awesome-explorables/blob/master/code-of-conduct.md).
+
+#### *If you see a link or a project that is broken or no longer working, please submit a pull request to improve this file. Thank you !*
 
 ## Community
 
