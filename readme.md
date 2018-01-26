@@ -169,7 +169,7 @@ Please take a a look at [contribution guidelines](https://github.com/sp4ke/aweso
 * [Hooked: how slot machines are designed to be addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive).
 * [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
 
-## Systems And Tought Experiments
+## Systems And Thought Experiments
 *[&#8593; top](#contents)*
 * [Complexity Explorables](http://rocs.hu-berlin.de/explorables/explorables/) - A collection of interactive explorable explanations of complex systems in many fields.
 * [Many Tiny Things](https://manytinythings.github.io/) - Every big thing in the world is made up of many tiny things.
