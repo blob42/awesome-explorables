@@ -3,7 +3,7 @@
 
 # Contribution Guidelines
 
-- **To add, remove, or change things on the list:** Submit a pull request
+- **To add, remove, or change things on the list:**  Submit a pull request
 - Each item should be limited to one link.
 - If many links belong to the same domain, regroup them in a sub list.
 - The link should a short and clear title.
