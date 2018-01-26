@@ -6,9 +6,9 @@ Inspired by Bret Vector and [awesome](https://github.com/sindresorhus/awesome).
 
 ## Contributing
 
-You are welcome to create a PR to contribute. 
+You are welcome to create a PR to contribute.
 
-Please take a a look at [contribution guidelines](https://github.com/sp4ke/awesome-explorables/blob/master/CONTRIBUTING.md). 
+Please take a a look at the [contribution guidelines](https://github.com/sp4ke/awesome-explorables/blob/master/contributing.md) and [code of conduct](https://github.com/sp4ke/awesome-explorables/blob/master/code-of-conduct.md).
 
 #### *If you see a link or a project that is broken or no longer working, please submit a pull request to improve this file. Thank you !*
 
