@@ -1,6 +1,7 @@
 # Awesome Explorables [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sp4ke/awesome-explorables)
 
->A curated list of [explorable explanations](http://worrydream.com/#!/ExplorableExplanations). 
+A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableExplanations): resources following the concept of reactive documents and active reading as defined by Bret Victor.
+
 
 ## Contents
 
