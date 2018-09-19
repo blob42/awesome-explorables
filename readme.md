@@ -150,6 +150,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Nukemap](http://nuclearsecrecy.com/nukemap/) - Nuclear explosion simulation tool by alex wellerstein.
 * [PhET Home Page](https://phet.colorado.edu/) - Interactive math and science simulations, based on extensive education research.
 * [Physics Simulations](https://www.myphysicslab.com/) - Physics simulations which show how the math is derived.
+* [Waveforms](https://pudding.cool/2018/02/waveforms/) - Let's Learn About Waveforms.
 
 
 ## Psychology
