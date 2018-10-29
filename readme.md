@@ -122,6 +122,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Interactive Introduction To Quantum Computing](http://davidbkemp.github.io/QuantumComputingArticle/)
 * [The Book Of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide to fragment shaders.
 * [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 
 
 ### Data Structures
