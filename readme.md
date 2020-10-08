@@ -216,7 +216,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Lively Kernel](http://lively-kernel.org)
 * [Loopy](http://ncase.me/loopy/) - Tool for thinking in systems.
 * [Tangle](http://worrydream.com/Tangle/) Js Library for reactive documents.
-* [TangleDown] (http://bollwyvl.github.io/TangleDown/)
+* [TangleDown](http://bollwyvl.github.io/TangleDown/)
 * [Outside the box](http://simblob.blogspot.nl/2016/10/outside-box.html) On SVG and Arrows.
 * [RedBlobGames - Making Of](simblob.blogspot.nl/search/label/making-of)
 * [Self-Lang](http://www.selflanguage.org) Prototype-based dynamic object-oriented programming language, environment, and virtual machine.
