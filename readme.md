@@ -209,7 +209,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Human Advancement Research Community - YC Research](https://harc.ycr.org)
 * [How I Make Explorable Explanations](http://blog.ncase.me/how-i-make-an-explorable-explanation/) - By Nicky Case.
 * [Implementing Draggable Handles](http://simblob.blogspot.nl/2014/09/implementing-draggable-handles.html)
-* [Improv.js] (http://ncase.me/improv-wip/) - Tool to make explorable explanations.
+* [Improv.js](http://ncase.me/improv-wip/) - Tool to make explorable explanations.
 * [Data-driven Web Applications](mimno.infosci.cornell.edu/info3300/)
 * [Idyll](http://idyll-lang.org/) - Tool for making interactive narratives for the web.
 * [Lively Kernel](http://lively-kernel.org)
