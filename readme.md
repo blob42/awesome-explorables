@@ -62,7 +62,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 * [Interactive 2d Matrix](http://ncase.me/matrix/)
 * [Immersive Math](http://immersivemath.com/ila/)  - Linear algebra book with  ully interactive figures.
-* [Invitation to Another Dimension](http://maxgoldste.in/invitation-to-another-dimension/)
+* [Invitation to Another Dimension](https://maxgoldste.in/itad/)
 
 
 ### Geometry
@@ -162,7 +162,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 
 ## Systems And Thought Experiments
 *[&#8593; top](#contents)*
-* [Complexity Explorables](http://rocs.hu-berlin.de/explorables/explorables/) - Collection of interactive explorable explanations of complex systems in many fields.
+* [Complexity Explorables](https://www.complexity-explorables.org/) - Collection of interactive explorable explanations of complex systems in many fields.
 * [Many Tiny Things](https://manytinythings.github.io/) - Every big thing in the world is made up of many tiny things.
 * [To Build A Better Ballot](http://ncase.me/ballot/) - an interactive guide to alternative voting systems
 * [Parable Of the Polygons](http://ncase.me/polygons/)  - Simulation about segregation and diversity.
