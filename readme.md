@@ -61,8 +61,9 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 *[&#8593; top](#contents)*
 * [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 * [Interactive 2d Matrix](http://ncase.me/matrix/)
-* [Immersive Math](http://immersivemath.com/ila/)  - Linear algebra book with fully interactive figures.
-* [Invitation to Another Dimension](http://maxgoldste.in/invitation-to-another-dimension/)
+* [Immersive Math](http://immersivemath.com/ila/)  - Linear algebra book with  ully interactive figures.
+* [Invitation to Another Dimension](https://maxgoldste.in/itad/)
+
 
 
 ### Geometry
@@ -84,7 +85,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 *[&#8593; top](#contents)*
 * [Compression Decompression](https://unwttng.com/compression-decompressed) - Or, Making Things Smaller: A Visual Introduction.
 * [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Visualizing algorithms, by mike bostock.
-* [visualgo.net](https://visualgo.net) - Interactive computer science algorithms and data structures.
+* [VisuAlgo](https://visualgo.net) - Interactive computer science algorithms and data structures.
 * [Quicksort](https://illustrated-algorithms.now.sh/quicksort) - The quicksort algorithm, illustrated with playing cards.
 * [Second-Order Controls](https://medium.com/@max_goldstein/second-order-controls-5cee5ddc9d2d)
 * [How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/) - Visualizing high-dimensional data.
@@ -94,7 +95,6 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Calculating The Intersection Area of 3+ Circles](http://www.benfrederickson.com/calculating-the-intersection-of-3-or-more-circles/)
 * [Line-intersection](http://bl.ocks.org/1wheel/464141fe9b940153e636) - Responsive parallel representations for the Bentley–Ottmann algorithm. 
 * [Split Packing: An Algorithm for Packing Circles with up to Critical Density](https://morr.cc/split-packing/)
-* [VisuAlgo](http://visualgo.net/)
 * [Coloring Maps](http://roadtolarissa.com/blog/2015/01/04/coloring-maps-with-d3/) - Transforming numbers into colors.
 * [Interactive Diagrams for Wikipedia](https://classes.soe.ucsc.edu/cmps179/Spring13/#Week9)
 * [Visualizing Map Distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
@@ -162,7 +162,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 
 ## Systems And Thought Experiments
 *[&#8593; top](#contents)*
-* [Complexity Explorables](http://rocs.hu-berlin.de/explorables/explorables/) - Collection of interactive explorable explanations of complex systems in many fields.
+* [Complexity Explorables](https://www.complexity-explorables.org/) - Collection of interactive explorable explanations of complex systems in many fields.
 * [Many Tiny Things](https://manytinythings.github.io/) - Every big thing in the world is made up of many tiny things.
 * [To Build A Better Ballot](http://ncase.me/ballot/) - an interactive guide to alternative voting systems
 * [Parable Of the Polygons](http://ncase.me/polygons/)  - Simulation about segregation and diversity.
