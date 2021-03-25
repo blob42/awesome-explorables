@@ -39,7 +39,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Primer on Bézier Curves](http://pomax.github.io/bezierinfo/) 
 * [Math Insight](http://mathinsight.org/) - Copious interactive diagrams and ingenious experiments with digital publishing.
 * [Circles Sines and Signals](http://jackschaedler.github.io/circles-sines-signals/) - Compact primer on digital signal processing.
-* [La mer qui monte](https://lmqm.xyz/) - Interactive videos on a variety of math topics
+* [Epiplexis](https://epiplexis.xyz/) - Interactive videos on a variety of math topics
 
 
 ### Statistics And Probability
@@ -218,7 +218,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Tangle](http://worrydream.com/Tangle/) Js Library for reactive documents.
 * [TangleDown](http://bollwyvl.github.io/TangleDown/)
 * [Outside the box](http://simblob.blogspot.nl/2016/10/outside-box.html) On SVG and Arrows.
-* [RactivePlayer](https://github.com/ysulyma/ractive-player) React library for creating interactive videos ("ractives")
+* [RactivePlayer](https://ractive-player.org/) React library for creating interactive videos ("ractives")
 * [RedBlobGames - Making Of](simblob.blogspot.nl/search/label/making-of)
 * [Self-Lang](http://www.selflanguage.org) Prototype-based dynamic object-oriented programming language, environment, and virtual machine.
 
