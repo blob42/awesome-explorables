@@ -69,7 +69,6 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 ### Geometry
 *[&#8593; top](#contents)*
 * [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - Brilliant use of animation to show complex mathematical processes geometrically.
-* [Trigonometry](http://huylenq.com/trigonometry) - Simple interactive trigonometry.
 * [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/)
 
 
