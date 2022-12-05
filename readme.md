@@ -181,7 +181,7 @@ A curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableE
 * [Kern Type](http://type.method.ac/) - Explorable on kerning in typography.
 * [How Does Inequality Begin ?](https://en.yaronshemesh.com/inequality/) - Interactive simulation.
 * [Virus, The Beauty Of The Beast](http://viruspatterns.com/)
-* [Mechanical watch](https://ciechanow.ski/mechanical-watch/)
+* [Inner Workings of a Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 
 
 ## About Explorable Explanations
