@@ -192,6 +192,7 @@ concepts in a meaningful and immersive way.
 * [kevinhayeswilson.com](https://kevinhayeswilson.com/redraw/) - Redraw state boundaries with 2016 US election data.
 * [Kern Type](http://type.method.ac/) - Explorable on kerning in typography.
 * [How Does Inequality Begin ?](https://en.yaronshemesh.com/inequality/) - Interactive simulation.
+* [How Government Expenditures Finance Themselves ?](https://thomas-tanay.github.io/posts/2022-SFCmodel) - A macroeconomic model from Wynne Godley and Marc Lavoie.
 * [Virus, The Beauty Of The Beast](http://viruspatterns.com/)
 * [Inner Workings of a Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 
