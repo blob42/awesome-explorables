@@ -15,7 +15,7 @@ powerful tool for learners of all ages, allowing them to engage with difficult
 concepts in a meaningful and immersive way.
 
 
-## Content
+## Contents
 
 - [Math](#math) 
 	- [Statistics And Probability](#statistics-and-probability)
