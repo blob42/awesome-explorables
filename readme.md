@@ -1,18 +1,13 @@
 # Awesome Explorables [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sp4ke/awesome-explorables)
 
 A comprehensive, carefully curated list of [Explorable Explanations](http://worrydream.com/#!/ExplorableExplanations): interactive resources that allow readers to actively engage with and explore complex ideas and concepts, following the concept of reactive documents and active reading as championed by renowned computer scientist and interaction designer Bret Victor. 
-
 ## Definition
 
-Explorable explanations are interactive, hands-on explanations that allow
-readers to understand complex ideas and concepts by actively manipulating
-variables and observing the results in real-time. They often take the form of
-web-based interactive graphics or simulations, and can be used to explain a
-wide range of topics in fields such as mathematics, science, and computer
-science. Notable authors in the field include Bret Victor, Nicky Case, Vi Hart,
-Dan Shiffman, and William Fenton. These interactive explanations can be a
-powerful tool for learners of all ages, allowing them to engage with difficult
-concepts in a meaningful and immersive way.
+Explorable explanations are interactive, hands-on explanations that allow readers to understand complex ideas and concepts by actively manipulating variables and observing the results in real-time.
+
+They often take the form of web-based interactive graphics or simulations, and can be used to explain a wide range of topics in fields such as mathematics, science, and computer science. 
+
+Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiffman, and William Fenton. These interactive explanations can be a powerful tool for learners of all ages, allowing them to engage with difficult concepts in a meaningful and immersive way.
 
 
 ## Contents
