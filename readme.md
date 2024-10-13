@@ -164,6 +164,8 @@ concepts in a meaningful and immersive way.
 * [PhET Home Page](https://phet.colorado.edu/) - Interactive math and science simulations, based on extensive education research.
 * [Physics Simulations](https://www.myphysicslab.com/) - Physics simulations which show how the math is derived.
 * [Waveforms](https://pudding.cool/2018/02/waveforms/) - Let's Learn About Waveforms.
+* [Math and Physics Applets](https://www.falstad.com/mathphysics.html) - Various interactive educational applets. By Paul Falstad.
+* [Electronics Circuit Simulator](https://www.falstad.com/circuit/) - Electronics circuit simulator also available in an offline version.
 
 
 ## Psychology
