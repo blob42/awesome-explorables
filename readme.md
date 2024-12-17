@@ -121,7 +121,6 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
 * [Confounding Variables](http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/)
 * [Seam Carving Algorithm](https://huggingface.co/spaces/marimo-team/seam-carving): Content-aware image resizing technique preserving main image elements.
-* [STEM Probes](https://marimo.io/p/@gvarnavides/stem-probes): Notebook exploring scientific measurement techniques.
 
 ### Programming
 *[&#8593; top](#contents)*
@@ -155,6 +154,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Pink Trombone](http://dood.al/pinktrombone/) - Hands-On Vocal Tract Simulation.
 * [GPS - Global Positioning System](https://ciechanow.ski/gps/) - A detailed interactive explanation on how the Global Positioning System works.
 * [Trajectory Planning](https://marimo.io/p/@convex-optimization-nasa/trajectory-planning): NASA Convex Optimization Short Course notebook on rocket landing using model predictive control.
+* [STEM Probes](https://marimo.io/p/@gvarnavides/stem-probes): Notebook exploring scientific measurement techniques.
 
 ## Physics
 *[&#8593; top](#contents)*
