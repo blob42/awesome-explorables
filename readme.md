@@ -240,7 +240,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [RactivePlayer](https://ractive-player.org/) React library for creating interactive videos ("ractives")
 * [RedBlobGames - Making Of](simblob.blogspot.nl/search/label/making-of)
 * [Self-Lang](http://www.selflanguage.org) Prototype-based dynamic object-oriented programming language, environment, and virtual machine.
-[marimo](marimo.io) - A framework for building interactive notebooks.
+* [marimo](marimo.io) - A framework for building interactive notebooks.
   * [marimo Notebook Gallery](https://marimo.io/gallery/): Collection of interactive notebooks.
   * [marimo Community Cloud](https://marimo.new): Online marimo framework editor, powered using WASM + Pyodide.
 
