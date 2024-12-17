@@ -63,6 +63,9 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Simpson's Paradox](http://vudlab.com/simpsons/)
 * [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/#part1) - On scientific method (p-values).
 * [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/) - Great illustration of survival analysis, and of probabalistic proccesses in general.
+* [PCA Digit Embedding](https://marimo.io/p/@marimo/embedding-visualizer): Interactive visualization of handwritten digits using PCA from UCI ML dataset.
+* [Signal Decomposition](https://marimo.io/@public/signal-decomposition): Tutorial on breaking down complex time series signals using signal-decomp library.
+* [Surfaces Visualization](https://marimo.io/@public/surfaces): Interactive plot of mathematical surfaces including paraboloid, saddle, sphere and torus.
 
 ### Linear Algebra
 *[&#8593; top](#contents)*
@@ -70,6 +73,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Interactive 2d Matrix](http://ncase.me/matrix/)
 * [Immersive Math](http://immersivemath.com/ila/)  - Linear algebra book with  ully interactive figures.
 * [Invitation to Another Dimension](https://maxgoldste.in/itad/)
+* [Interactive Matrices](https://marimo.io/p/@marimo/interactive-matrices): Demos including 2D slider, Gaussian distribution and PCA visualization.
 
 
 
@@ -77,6 +81,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 *[&#8593; top](#contents)*
 * [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - Brilliant use of animation to show complex mathematical processes geometrically.
 * [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/)
+* [Surfaces Visualization](https://marimo.io/@public/surfaces): Interactive plot of mathematical surfaces including paraboloid, saddle, sphere, and torus.
 
 
 ### Logic
@@ -116,6 +121,8 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
 * [Confounding Variables](http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/)
+* [Seam Carving Algorithm](https://huggingface.co/spaces/marimo-team/seam-carving): Content-aware image resizing technique preserving main image elements.
+* [STEM Probes](https://marimo.io/p/@gvarnavides/stem-probes): Notebook exploring scientific measurement techniques.
 
 ### Programming
 *[&#8593; top](#contents)*
@@ -148,6 +155,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)
 * [Pink Trombone](http://dood.al/pinktrombone/) - Hands-On Vocal Tract Simulation.
 * [GPS - Global Positioning System](https://ciechanow.ski/gps/) - A detailed interactive explanation on how the Global Positioning System works.
+* [Trajectory Planning](https://marimo.io/p/@convex-optimization-nasa/trajectory-planning): NASA Convex Optimization Short Course notebook on rocket landing using model predictive control.
 
 ## Physics
 *[&#8593; top](#contents)*
@@ -232,6 +240,8 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [RactivePlayer](https://ractive-player.org/) React library for creating interactive videos ("ractives")
 * [RedBlobGames - Making Of](simblob.blogspot.nl/search/label/making-of)
 * [Self-Lang](http://www.selflanguage.org) Prototype-based dynamic object-oriented programming language, environment, and virtual machine.
+* [marimo Notebook Gallery](https://marimo.io/gallery/): Collection of interactive notebooks.
+* [marimo Community Cloud](https://marimo.new): Online marimo framework editor, powered using WASM + Pyodide.
 
 
 ## Books And Essays
