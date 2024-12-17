@@ -63,9 +63,6 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Simpson's Paradox](http://vudlab.com/simpsons/)
 * [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/#part1) - On scientific method (p-values).
 * [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/) - Great illustration of survival analysis, and of probabalistic proccesses in general.
-* [PCA Digit Embedding](https://marimo.io/p/@marimo/embedding-visualizer): Interactive visualization of handwritten digits using PCA from UCI ML dataset.
-* [Signal Decomposition](https://marimo.io/@public/signal-decomposition): Tutorial on breaking down complex time series signals using signal-decomp library.
-* [Surfaces Visualization](https://marimo.io/@public/surfaces): Interactive plot of mathematical surfaces including paraboloid, saddle, sphere and torus.
 
 ### Linear Algebra
 *[&#8593; top](#contents)*
@@ -73,6 +70,8 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Interactive 2d Matrix](http://ncase.me/matrix/)
 * [Immersive Math](http://immersivemath.com/ila/)  - Linear algebra book with  ully interactive figures.
 * [Invitation to Another Dimension](https://maxgoldste.in/itad/)
+* [PCA Digit Embedding](https://marimo.io/p/@marimo/embedding-visualizer): Interactive visualization of handwritten digits using PCA from UCI ML dataset.
+* [Signal Decomposition](https://marimo.io/@public/signal-decomposition): Tutorial on breaking down complex time series signals using signal-decomp library.
 * [Interactive Matrices](https://marimo.io/p/@marimo/interactive-matrices): Demos including 2D slider, Gaussian distribution and PCA visualization.
 
 
@@ -81,7 +80,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 *[&#8593; top](#contents)*
 * [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - Brilliant use of animation to show complex mathematical processes geometrically.
 * [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/)
-* [Surfaces Visualization](https://marimo.io/@public/surfaces): Interactive plot of mathematical surfaces including paraboloid, saddle, sphere, and torus.
+* [Surfaces Visualization](https://marimo.io/@public/surfaces): Interactive plot of mathematical surfaces including paraboloid, saddle, sphere and torus.
 
 
 ### Logic
