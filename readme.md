@@ -181,6 +181,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 *[&#8593; top](#contents)*
 * [Complexity Explorables](https://www.complexity-explorables.org/) - Collection of interactive explorable explanations of complex systems in many fields.
 * [Many Tiny Things](https://manytinythings.github.io/) - Every big thing in the world is made up of many tiny things.
+* [Solana History Map](https://www.meow-woof.org) - Source-cited interactive teardowns of real distributed-system failures: forge a bridge receipt, tamper a hash chain, or manipulate an oracle to see what breaks.
 * [To Build A Better Ballot](http://ncase.me/ballot/) - an interactive guide to alternative voting systems
 * [Parable Of the Polygons](http://ncase.me/polygons/)  - Simulation about segregation and diversity.
 * [Who’ll Freeze First ?](http://noticing.co/on-size-and-warmth/) - Puzzle about size and staying warm.
