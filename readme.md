@@ -62,6 +62,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Seeing Theory](http://students.brown.edu/seeing-theory/) - Visual introduction to probability and statistics.
 * [Simpson's Paradox](http://vudlab.com/simpsons/)
 * [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/#part1) - On scientific method (p-values).
+* [Timegrapher Repeatability Calculator](https://kapella-hub.github.io/appstore/timegrapher-repeatability-calculator.html) - Explore how two measurement uncertainties combine into an agreement threshold for repeated mechanical-watch rate readings.
 * [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/) - Great illustration of survival analysis, and of probabalistic proccesses in general.
 
 ### Linear Algebra
