@@ -194,6 +194,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 *[&#8593; top](#contents)*
 * [Ishkur's Guide To Electronic Music](http://techno.org/electronic-music-guide/)
 * [Learn Music](https://learningmusic.ableton.com/) - Experiment with beats, melody, harmony, basslines, and song structure.
+* [Music Theory](https://runjs.app/blog/music-theory-for-programmers) - Learn music theory from first principles, with interactive examples.
 * [kevinhayeswilson.com](https://kevinhayeswilson.com/redraw/) - Redraw state boundaries with 2016 US election data.
 * [Kern Type](http://type.method.ac/) - Explorable on kerning in typography.
 * [How Does Inequality Begin ?](https://en.yaronshemesh.com/inequality/) - Interactive simulation.
