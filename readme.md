@@ -136,6 +136,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 
+* [When Records Are Comparable](https://molab.marimo.io/github/JacobiusMakes/parlayapi-notebooks/blob/774d5f347e0d9d36e43d392941efacaf8a7260d3/labs/odds-comparability/odds_comparability.py/wasm?mode=read&show-code=false) - Manipulate synthetic sports records to explore identity mismatches, observation age, and polling workloads in an interactive Python notebook.
 
 ### Data Structures
 *[&#8593; top](#contents)*
