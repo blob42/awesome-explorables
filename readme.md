@@ -129,6 +129,8 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 	* [Introduction To A* ](http://www.redblobgames.com/pathfinding/a-star/introduction.html) – How pathfinding algorithms work, by amit patel.
 	* [Hexagonal Grids](http://www.redblobgames.com/grids/hexagons/) - Interactive guide on implementing hexagonal grids.
 	* [Intro To Graph Theory](http://www.redblobgames.com/pathfinding/grids/graphs.html)
+* [Playgrounds Lab](https://keegooroomie.github.io/playgrounds/) - Interactive algorithm playgrounds — pathfinding, boids, cellular automata, noise — poke them until they reveal how they work.
+	* Pathfinding algorithms [BFS](https://keegooroomie.github.io/playgrounds/bfs/) | [DFS](https://keegooroomie.github.io/playgrounds/dfs/) | [Dijkstra](https://keegooroomie.github.io/playgrounds/dijkstra/) | [A*](https://keegooroomie.github.io/playgrounds/a-star/) - interactive examples
 * [Generating Fantasy Maps](http://mewo2.com/notes/terrain/) - Generating fantasy maps, the math behind.
 * [gamejolt.com](http://gamejolt.com/games/the-stranger-loop/10679) - Topology, via asteroids, narrated.
 * [Interactive Introduction To Quantum Computing](http://davidbkemp.github.io/QuantumComputingArticle/)
