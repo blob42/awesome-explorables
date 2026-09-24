@@ -180,6 +180,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 ## Systems And Thought Experiments
 *[&#8593; top](#contents)*
 * [Complexity Explorables](https://www.complexity-explorables.org/) - Collection of interactive explorable explanations of complex systems in many fields.
+* [PonderAtlas](https://ponderatlas.com/) - Interactive, source-backed philosophy thought experiments with position maps and private reasoning tools.
 * [Many Tiny Things](https://manytinythings.github.io/) - Every big thing in the world is made up of many tiny things.
 * [To Build A Better Ballot](http://ncase.me/ballot/) - an interactive guide to alternative voting systems
 * [Parable Of the Polygons](http://ncase.me/polygons/)  - Simulation about segregation and diversity.
