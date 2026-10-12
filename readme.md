@@ -148,7 +148,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 *[&#8593; top](#contents)*
 * [ncase.me](http://ncase.me/simulating/) - Simulating the world (in emoji😘).
 * [ncase.me](http://ncase.me/neurons/) - Neurotic neurons, an interactive animation on how exposure therapy works.
-* [Exploring Emergence](http://www.playfulinvention.com/emergence/index.html) -  Introduction to cellular automata (from 1996! requires flash).
+* [Exploring Emergence](https://web.archive.org/web/20260607081250/https://www.playfulinvention.com/emergence/index.html) - Introduction to cellular automata (from 1996!).
 * [internet-atlas.net](http://internet-atlas.net/) - Critical atlas of internet.
 * [Visualizing Projections](http://shaunlebron.github.io/visualizing-projections/) - Visualizing multiple camera projection techniques.
 * [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)
@@ -156,6 +156,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [GPS - Global Positioning System](https://ciechanow.ski/gps/) - A detailed interactive explanation on how the Global Positioning System works.
 * [Trajectory Planning](https://marimo.io/p/@convex-optimization-nasa/trajectory-planning): NASA Convex Optimization Short Course notebook on rocket landing using model predictive control.
 * [STEM Probes](https://marimo.io/p/@gvarnavides/stem-probes): Notebook exploring scientific measurement techniques.
+* [GLP-1 Subway](https://subway.bio1up.com/line/signal) - A scroll-through ride animating and explaining how the hormone GLP-1 acts in the gut, pancreas, brain and other organs.
 
 ## Physics
 *[&#8593; top](#contents)*
