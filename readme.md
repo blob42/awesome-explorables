@@ -122,6 +122,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
 * [Confounding Variables](http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/)
 * [Seam Carving Algorithm](https://huggingface.co/spaces/marimo-team/seam-carving): Content-aware image resizing technique preserving main image elements.
+* [N-gram Visualization](https://docmparker.github.io/ngram-visualization/) - Explore how a character-level trigram language model trained on 30,000 names predicts the next character, then sample from it and generate new names.
 
 ### Programming
 *[&#8593; top](#contents)*
