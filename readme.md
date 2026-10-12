@@ -153,6 +153,8 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Visualizing Projections](http://shaunlebron.github.io/visualizing-projections/) - Visualizing multiple camera projection techniques.
 * [Entropy Explained, With Sheep](https://aatishb.github.io/entropy/)
 * [Pink Trombone](http://dood.al/pinktrombone/) - Hands-On Vocal Tract Simulation.
+* [Respiratory Physiology: A Clinical Approach](https://respphys.org/) - Free online interactive textbook of respiratory physiology, with animated figures and simulations.
+	* [Interactive Animated Figures Directory](https://respphys.org/10-back-matter/10-bm-03-animated_figures_index) - Direct links to the book's 39 interactive figures, from lung volumes to acid-base balance.
 * [GPS - Global Positioning System](https://ciechanow.ski/gps/) - A detailed interactive explanation on how the Global Positioning System works.
 * [Trajectory Planning](https://marimo.io/p/@convex-optimization-nasa/trajectory-planning): NASA Convex Optimization Short Course notebook on rocket landing using model predictive control.
 * [STEM Probes](https://marimo.io/p/@gvarnavides/stem-probes): Notebook exploring scientific measurement techniques.
