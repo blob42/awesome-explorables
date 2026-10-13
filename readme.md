@@ -169,6 +169,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Waveforms](https://pudding.cool/2018/02/waveforms/) - Let's Learn About Waveforms.
 * [Math and Physics Applets](https://www.falstad.com/mathphysics.html) - Various interactive educational applets. By Paul Falstad.
 * [Electronics Circuit Simulator](https://www.falstad.com/circuit/) - Electronics circuit simulator also available in an offline version.
+* [3D Solar System Simulator](https://www.3dsolarsystem.net/) - Orbit the Sun and eight planets in the browser and switch between compressed and true-scale distances.
 
 
 ## Psychology
