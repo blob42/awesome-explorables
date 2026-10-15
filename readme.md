@@ -165,6 +165,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Interactive Introduction To Optical Modulation](https://shapescience.xyz/blog/interactive-introduction-to-optical-modulation/)
 * [Nukemap](http://nuclearsecrecy.com/nukemap/) - Nuclear explosion simulation tool by alex wellerstein.
 * [PhET Home Page](https://phet.colorado.edu/) - Interactive math and science simulations, based on extensive education research.
+* [Moon Phases — Space Atlas](https://saramjh.github.io/space_atlas_student/moon/phases/) - Interactive lunar phase geometry model with guided prediction and explanation prompts.
 * [Physics Simulations](https://www.myphysicslab.com/) - Physics simulations which show how the math is derived.
 * [Waveforms](https://pudding.cool/2018/02/waveforms/) - Let's Learn About Waveforms.
 * [Math and Physics Applets](https://www.falstad.com/mathphysics.html) - Various interactive educational applets. By Paul Falstad.
