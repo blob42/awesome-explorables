@@ -110,6 +110,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Interactive Diagrams for Wikipedia](https://classes.soe.ucsc.edu/cmps179/Spring13/#Week9)
 * [Visualizing Map Distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
 * [Procedural Dungeon Generation: Cellular Automata](http://blog.jrheard.com/procedural-dungeon-generation-cellular-automata)
+* [ntree.ai](https://ntree.ai) - Problems practice platform with a real debugger that can visualise all data structures with your code line-by-line.
 
 
 ### Machine Learning and Neural Networks
