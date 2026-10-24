@@ -166,6 +166,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Nukemap](http://nuclearsecrecy.com/nukemap/) - Nuclear explosion simulation tool by alex wellerstein.
 * [PhET Home Page](https://phet.colorado.edu/) - Interactive math and science simulations, based on extensive education research.
 * [Physics Simulations](https://www.myphysicslab.com/) - Physics simulations which show how the math is derived.
+* [Space Simulator Online](https://spacesimulator.online/) - Interactive 3D Solar System, galaxy-collision N-body simulation, and TESS exoplanet light-curve explorer built on NASA/JPL data.
 * [Waveforms](https://pudding.cool/2018/02/waveforms/) - Let's Learn About Waveforms.
 * [Math and Physics Applets](https://www.falstad.com/mathphysics.html) - Various interactive educational applets. By Paul Falstad.
 * [Electronics Circuit Simulator](https://www.falstad.com/circuit/) - Electronics circuit simulator also available in an offline version.
