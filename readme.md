@@ -135,6 +135,10 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [The Book Of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide to fragment shaders.
 * [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
+* [ViLearn](https://vilearn.absolutedevs.in/learn/) - Software engineering concepts as animated stories, each with a simulation you can change and break.
+	* [How Git Actually Stores Your Work](https://vilearn.absolutedevs.in/learn/git-internals) - Every git command as a pointer moving over a store of objects that never change.
+	* [How The Internet Finds google.com](https://vilearn.absolutedevs.in/learn/dns) - One DNS lookup followed through caches, root servers and name servers.
+	* [Why One Expired Key Takes Down A Database](https://vilearn.absolutedevs.in/learn/thundering-herd) - A cache simulation where one expiry sends every request to the database at once.
 
 
 ### Data Structures
