@@ -122,6 +122,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
 * [Confounding Variables](http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/)
 * [Seam Carving Algorithm](https://huggingface.co/spaces/marimo-team/seam-carving): Content-aware image resizing technique preserving main image elements.
+* [Lensa ML](https://lensaml.com/) - Over 100 short explainers on machine learning and its math, from gradients and eigenvectors to transformers and LLM inference, where sliders drive the underlying math.
 
 ### Programming
 *[&#8593; top](#contents)*
