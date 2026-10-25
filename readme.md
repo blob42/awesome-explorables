@@ -184,6 +184,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [To Build A Better Ballot](http://ncase.me/ballot/) - an interactive guide to alternative voting systems
 * [Parable Of the Polygons](http://ncase.me/polygons/)  - Simulation about segregation and diversity.
 * [Who’ll Freeze First ?](http://noticing.co/on-size-and-warmth/) - Puzzle about size and staying warm.
+* [Fair and Square](https://hamed.github.io/fair-and-square/?utm_campaign=awesome) - Interactive Yard-Sale model exploring how fair trades, chance, and taxation affect wealth inequality.
 
 ## Creativity
 *[&#8593; top](#contents)*
