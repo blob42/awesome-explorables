@@ -169,6 +169,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Waveforms](https://pudding.cool/2018/02/waveforms/) - Let's Learn About Waveforms.
 * [Math and Physics Applets](https://www.falstad.com/mathphysics.html) - Various interactive educational applets. By Paul Falstad.
 * [Electronics Circuit Simulator](https://www.falstad.com/circuit/) - Electronics circuit simulator also available in an offline version.
+* [Room Mode Calculator](https://theaudiostuff.com/tools/room-mode-calculator/) - Change a room's dimensions and see where its standing-wave resonances fall, with a pressure map and each mode played as a tone.
 
 
 ## Psychology
