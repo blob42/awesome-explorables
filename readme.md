@@ -135,6 +135,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [The Book Of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide to fragment shaders.
 * [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
+* [MCP Explained](https://mcp-explained.com) - Interactive, animated walkthrough of the Model Context Protocol, showing every JSON-RPC message between client, server and model.
 
 
 ### Data Structures
