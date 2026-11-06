@@ -173,6 +173,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 
 ## Psychology
 *[&#8593; top](#contents)*
+* [Outcome Independence: Interactive Demo](https://relabel.me/words/outcome-independence#demo) - Interactive demonstration of outcome bias in decision evaluation.
 * [The Evolution Of Trust](http://ncase.me/trust/)
 * [Hooked: how slot machines are designed to be addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive).
 * [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
