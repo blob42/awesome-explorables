@@ -156,6 +156,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [GPS - Global Positioning System](https://ciechanow.ski/gps/) - A detailed interactive explanation on how the Global Positioning System works.
 * [Trajectory Planning](https://marimo.io/p/@convex-optimization-nasa/trajectory-planning): NASA Convex Optimization Short Course notebook on rocket landing using model predictive control.
 * [STEM Probes](https://marimo.io/p/@gvarnavides/stem-probes): Notebook exploring scientific measurement techniques.
+* [carboncarbon.bond](https://carboncarbon.bond/) - Organic chemistry lessons where each new idea comes with a real molecule to turn in 3D and a quick question to check it.
 
 ## Physics
 *[&#8593; top](#contents)*
