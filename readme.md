@@ -56,6 +56,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [Humans Suck At Entropy](http://www.loper-os.org/bad-at-entropy/manmach.html) 
 * [Interpreting Confidence Intervals](http://rpsychologist.com/d3/CI/) - Interpreting Confidence Intervals. 
 * [Markov Chains](http://setosa.io/ev/markov-chains/)
+* [Math Paradoxes](https://mathparadoxes.com/) - Probability and statistics puzzles where intuition fails (Monty Hall, birthday paradox, Simpson's paradox): guess first, then play the game and run the simulation.
 * [Ordinary Least Squares Regression](http://setosa.io/ev/ordinary-least-squares-regression/)
 * [Principal Component Analysis](http://setosa.io/ev/principal-component-analysis/)
 * [Probdef](https://abstractionapplication.itch.io/probdef) - Open-source game about probability and inference leading up to Bayes Theorem.
